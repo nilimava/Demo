@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OopsDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "Val1 val2 val3\r\n"
+    }
+  }
+}

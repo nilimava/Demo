@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C611333-3A43-4DA8-AA43-345F6332E529}|OopsDemo\\OopsDemo.csproj|c:\\users\\admin\\source\\repos\\oopsdemo\\oopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C611333-3A43-4DA8-AA43-345F6332E529}|OopsDemo\\OopsDemo.csproj|solutionrelative:oopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C611333-3A43-4DA8-AA43-345F6332E529}|OopsDemo\\OopsDemo.csproj|c:\\users\\admin\\source\\repos\\oopsdemo\\oopsdemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C611333-3A43-4DA8-AA43-345F6332E529}|OopsDemo\\OopsDemo.csproj|solutionrelative:oopsdemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C611333-3A43-4DA8-AA43-345F6332E529}|OopsDemo\\OopsDemo.csproj|c:\\users\\admin\\source\\repos\\oopsdemo\\oopsdemo\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C611333-3A43-4DA8-AA43-345F6332E529}|OopsDemo\\OopsDemo.csproj|solutionrelative:oopsdemo\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C9A8EB-F92A-4A4B-8CF0-D5F33C6705EE}|AssemblyOne\\AssemblyOne.csproj|c:\\users\\admin\\source\\repos\\oopsdemo\\assemblyone\\assemblyoneclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C9A8EB-F92A-4A4B-8CF0-D5F33C6705EE}|AssemblyOne\\AssemblyOne.csproj|solutionrelative:assemblyone\\assemblyoneclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C9A8EB-F92A-4A4B-8CF0-D5F33C6705EE}|AssemblyOne\\AssemblyOne.csproj|c:\\users\\admin\\source\\repos\\oopsdemo\\assemblyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C9A8EB-F92A-4A4B-8CF0-D5F33C6705EE}|AssemblyOne\\AssemblyOne.csproj|solutionrelative:assemblyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C611333-3A43-4DA8-AA43-345F6332E529}|OopsDemo\\OopsDemo.csproj|c:\\users\\admin\\source\\repos\\oopsdemo\\oopsdemo\\oopsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C611333-3A43-4DA8-AA43-345F6332E529}|OopsDemo\\OopsDemo.csproj|solutionrelative:oopsdemo\\oopsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\OopsDemo\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "OopsDemo\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\OopsDemo\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "OopsDemo\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:07:42.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyOneClass1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\AssemblyOne\\AssemblyOneClass1.cs",
+              "RelativeDocumentMoniker": "AssemblyOne\\AssemblyOneClass1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\AssemblyOne\\AssemblyOneClass1.cs",
+              "RelativeToolTip": "AssemblyOne\\AssemblyOneClass1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:01:19.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\AssemblyOne\\Program.cs",
+              "RelativeDocumentMoniker": "AssemblyOne\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\AssemblyOne\\Program.cs",
+              "RelativeToolTip": "AssemblyOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:54:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OopsDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\OopsDemo\\OopsDemo.csproj",
+              "RelativeDocumentMoniker": "OopsDemo\\OopsDemo.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\OopsDemo\\OopsDemo.csproj",
+              "RelativeToolTip": "OopsDemo\\OopsDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T21:21:22.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\OopsDemo\\Person.cs",
+              "RelativeDocumentMoniker": "OopsDemo\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\OopsDemo\\Person.cs",
+              "RelativeToolTip": "OopsDemo\\Person.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:29:37.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\OopsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "OopsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OopsDemo\\OopsDemo\\Program.cs",
+              "RelativeToolTip": "OopsDemo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:45:00.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
